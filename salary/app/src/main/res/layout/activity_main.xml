@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+
+
+    <EditText
+        android:id="@+id/companyEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="회사 이름을 입력하세요" />
+
+    <EditText
+        android:id="@+id/hourlyRateEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/daysEditText"
+        android:layout_marginTop="16dp"
+        android:hint="시급을 입력하세요" />
+
+    <EditText
+        android:id="@+id/hoursEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/companyEditText"
+        android:layout_marginTop="16dp"
+        android:hint="하루 근무 시간을 입력하세요" />
+
+    <EditText
+        android:id="@+id/daysEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hoursEditText"
+        android:layout_marginTop="16dp"
+        android:hint="한 달 근무 일수를 입력하세요" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/daysEditText"
+        android:layout_marginTop="75dp"
+        android:text="계산하기"
+        android:textColorHighlight="#8BC34A"
+        android:textColorLink="#8BC34A"
+        app:strokeColor="#8BC34A" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/calculateButton"
+        android:layout_marginTop="16dp" />
+
+
+</RelativeLayout>
