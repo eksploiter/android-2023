@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 누르지 않았을 때 색상 -->
+    <item android:state_pressed="false" android:color="@color/fungreen" />
+    <!-- 눌렀을 때 색상 -->
+    <item android:state_pressed="true" android:color="@color/g" />
+</selector>

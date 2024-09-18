@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //----------------------------------------------
+    <color name="fungreen">#186049</color>      //1
+    <color name="eden">#247158</color>          //1
+    <color name="tradewind">#6ab29b</color>     //1
+    <color name="dawnpink">#e4d5c7</color>      //1
+    <color name="almondfrost">#b6a321</color>   //1
+    //----------------------------------------------
+    <color name="a">#1d1a39</color>   //2
+    <color name="b">#451952</color>   //2
+    <color name="c">#662549</color>   //2
+    <color name="d">#ae445a</color>   //2
+    <color name="e">#f39f5a</color>   //2
+    <color name="f">#e8bcb9</color>   //2
+    //----------------------------------------------
+    <color name="g">#cb997e</color>   //3
+    <color name="h">#ddbea9</color>   //3
+    <color name="i">#ffe8d6</color>   //3
+    <color name="j">#b7b7a4</color>   //3
+    <color name="k">#a5a58d</color>   //3
+    <color name="l">#6b705c</color>   //3
+    //----------------------------------------------
+    <color name="m">#f3dbce</color>   //4
+    <color name="n">#ffcdb2</color>   //4
+    <color name="o">#ffb4a2</color>   //4
+    <color name="p">#e5989b</color>   //4
+    <color name="q">#b5838d</color>   //4
+    <color name="r">#6d6875</color>   //4
+
+    <color name="your_text_color">#186049</color> <!-- 예시: 빨간색 -->
+</resources>
