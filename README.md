@@ -18,7 +18,8 @@
 ## 개발 환경
 - **언어**: Java
 - **IDE**: Android Studio
-- **Android SDK 버전**: [버전 명시]
+- **Android Studio 버전**: Electric Eel | 2022.1.1
+- **Android SDK 버전**: Android 13 (Tiramisu, SDK 33)
 
 ## 참고 자료
 이 프로젝트는 수업 교재와 강의 자료를 기반으로 개발되었습니다.
