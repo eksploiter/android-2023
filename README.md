@@ -21,10 +21,10 @@
 <br>
 
 ## 개발 환경
-- **언어**: Java
-- **IDE**: Android Studio
-- **Android Studio 버전**: Electric Eel | 2022.1.1
-- **Android SDK 버전**: Android 13 (Tiramisu, SDK 33)
+- **언어** :  Java
+- **IDE** :  Android Studio
+- **Android Studio 버전** :  Electric Eel | 2022.1.1
+- **Android SDK 버전** :  Android 13 (Tiramisu, SDK 33)
 <br>
 
 ## 참고 자료
@@ -33,5 +33,5 @@
 <br>
 
 ## 라이센스
-이 프로젝트는 학습 목적으로 제작되었으며, 상업적 용도로 사용되지 않습니다.
+이 프로젝트는 **학습 목적**으로 제작되었으며, 상업적 용도로 사용되지 않습니다.
 <br>
